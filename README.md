@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a project about craeting new AI
 - Looking forward to work with developers
+- It's a demo line for git 
 
 
 <!---
